@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Codes\\Api.Humanos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FECA2E97-FBD4-4B0A-BE3D-C3EC12263D84}|api.humanos.application\\api.humanos.application.csproj|c:\\codes\\api.humanos\\api.humanos.application\\presenters\\humanospresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FECA2E97-FBD4-4B0A-BE3D-C3EC12263D84}|api.humanos.application\\api.humanos.application.csproj|solutionrelative:api.humanos.application\\presenters\\humanospresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD81DC04-0F0C-414C-9A65-04C04D6925EC}|api.humanos.infrastructure\\api.humanos.infrastructure.csproj|c:\\codes\\api.humanos\\api.humanos.infrastructure\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD81DC04-0F0C-414C-9A65-04C04D6925EC}|api.humanos.infrastructure\\api.humanos.infrastructure.csproj|solutionrelative:api.humanos.infrastructure\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA74F062-7CE1-4761-B487-02B7DA3E2EF3}|api.humanos\\api.humanos.csproj|c:\\codes\\api.humanos\\api.humanos\\controllers\\humanoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA74F062-7CE1-4761-B487-02B7DA3E2EF3}|api.humanos\\api.humanos.csproj|solutionrelative:api.humanos\\controllers\\humanoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD81DC04-0F0C-414C-9A65-04C04D6925EC}|api.humanos.infrastructure\\api.humanos.infrastructure.csproj|c:\\codes\\api.humanos\\api.humanos.infrastructure\\bdservices\\humanosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD81DC04-0F0C-414C-9A65-04C04D6925EC}|api.humanos.infrastructure\\api.humanos.infrastructure.csproj|solutionrelative:api.humanos.infrastructure\\bdservices\\humanosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HumanosController.cs",
-              "DocumentMoniker": "C:\\Codes\\Api.Humanos\\api.humanos\\Controllers\\HumanosController.cs",
-              "RelativeDocumentMoniker": "api.humanos\\Controllers\\HumanosController.cs",
-              "ToolTip": "C:\\Codes\\Api.Humanos\\api.humanos\\Controllers\\HumanosController.cs",
-              "RelativeToolTip": "api.humanos\\Controllers\\HumanosController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwDMAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "C:\\Codes\\Api.Humanos\\api.humanos.infrastructure\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "api.humanos.infrastructure\\DependencyContainer.cs",
+              "ToolTip": "C:\\Codes\\Api.Humanos\\api.humanos.infrastructure\\DependencyContainer.cs",
+              "RelativeToolTip": "api.humanos.infrastructure\\DependencyContainer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABIAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T00:03:14.898Z",
+              "WhenOpened": "2024-09-05T14:35:02.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HumanosPresenter.cs",
-              "DocumentMoniker": "C:\\Codes\\Api.Humanos\\api.humanos.application\\Presenters\\HumanosPresenter.cs",
-              "RelativeDocumentMoniker": "api.humanos.application\\Presenters\\HumanosPresenter.cs",
-              "ToolTip": "C:\\Codes\\Api.Humanos\\api.humanos.application\\Presenters\\HumanosPresenter.cs",
-              "RelativeToolTip": "api.humanos.application\\Presenters\\HumanosPresenter.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAF0AAAAaAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "HumanosDbContext.cs",
+              "DocumentMoniker": "C:\\Codes\\Api.Humanos\\api.humanos.infrastructure\\BdServices\\HumanosDbContext.cs",
+              "RelativeDocumentMoniker": "api.humanos.infrastructure\\BdServices\\HumanosDbContext.cs",
+              "ToolTip": "C:\\Codes\\Api.Humanos\\api.humanos.infrastructure\\BdServices\\HumanosDbContext.cs",
+              "RelativeToolTip": "api.humanos.infrastructure\\BdServices\\HumanosDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T00:02:18.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T14:22:04.976Z"
             }
           ]
         }

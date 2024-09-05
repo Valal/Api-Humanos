@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("api.humanos.extension")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1778ca0dbbda068b0fddbbdfdd1ff7c2b8ffc83e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a51c5da8ab6dc2c16432003c5ccb05ebd35459b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("api.humanos.extension")]
 [assembly: System.Reflection.AssemblyTitleAttribute("api.humanos.extension")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
