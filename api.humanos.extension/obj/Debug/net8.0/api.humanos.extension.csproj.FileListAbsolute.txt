@@ -1,0 +1,12 @@
+C:\Codes\Api.Humanos\api.humanos.extension\bin\Debug\net8.0\api.humanos.extension.deps.json
+C:\Codes\Api.Humanos\api.humanos.extension\bin\Debug\net8.0\api.humanos.extension.dll
+C:\Codes\Api.Humanos\api.humanos.extension\bin\Debug\net8.0\api.humanos.extension.pdb
+C:\Codes\Api.Humanos\api.humanos.extension\obj\Debug\net8.0\api.humanos.extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\Api.Humanos\api.humanos.extension\obj\Debug\net8.0\api.humanos.extension.AssemblyInfoInputs.cache
+C:\Codes\Api.Humanos\api.humanos.extension\obj\Debug\net8.0\api.humanos.extension.AssemblyInfo.cs
+C:\Codes\Api.Humanos\api.humanos.extension\obj\Debug\net8.0\api.humanos.extension.csproj.CoreCompileInputs.cache
+C:\Codes\Api.Humanos\api.humanos.extension\obj\Debug\net8.0\api.humanos.extension.dll
+C:\Codes\Api.Humanos\api.humanos.extension\obj\Debug\net8.0\refint\api.humanos.extension.dll
+C:\Codes\Api.Humanos\api.humanos.extension\obj\Debug\net8.0\api.humanos.extension.pdb
+C:\Codes\Api.Humanos\api.humanos.extension\obj\Debug\net8.0\ref\api.humanos.extension.dll
+C:\Codes\Api.Humanos\api.humanos.extension\obj\Debug\net8.0\api.humanos.extension.sourcelink.json

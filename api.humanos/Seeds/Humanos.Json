@@ -1,0 +1,42 @@
+[
+    {
+        "nombre": "Tomas Sepulveda",
+        "sexo": "masculino",
+        "edad": 34,
+        "altura": 1.80,
+        "peso": 120,
+        "id": 1
+    },
+    {
+        "nombre": "Marco Rosales",
+        "sexo": "masculino",
+        "edad": 32,
+        "altura": 1.85,
+        "peso": 100,
+        "id": 2
+    },
+    {
+        "nombre": "Hilda Mejia",
+        "sexo": "femenino",
+        "edad": 34,
+        "altura": 1.60,
+        "peso": 50,
+        "id": 3
+    },
+    {
+        "nombre": "Karina Botello",
+        "sexo": "femenino",
+        "edad": 30,
+        "altura": 1.70,
+        "peso": 60,
+        "id": 4
+    },
+    {
+        "nombre": "Rebeca Villanueva",
+        "sexo": "femenino",
+        "edad": 33,
+        "altura": 1.70,
+        "peso": 50,
+        "id": 5
+    }
+]

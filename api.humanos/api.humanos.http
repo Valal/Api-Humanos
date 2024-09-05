@@ -1,0 +1,6 @@
+@api.humanos_HostAddress = http://localhost:5138
+
+GET {{api.humanos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

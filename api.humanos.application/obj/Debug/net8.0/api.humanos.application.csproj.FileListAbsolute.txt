@@ -1,0 +1,16 @@
+C:\Codes\Api.Humanos\api.humanos.application\bin\Debug\net8.0\api.humanos.application.deps.json
+C:\Codes\Api.Humanos\api.humanos.application\bin\Debug\net8.0\api.humanos.application.dll
+C:\Codes\Api.Humanos\api.humanos.application\bin\Debug\net8.0\api.humanos.application.pdb
+C:\Codes\Api.Humanos\api.humanos.application\obj\Debug\net8.0\api.humanos.application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\Api.Humanos\api.humanos.application\obj\Debug\net8.0\api.humanos.application.AssemblyInfoInputs.cache
+C:\Codes\Api.Humanos\api.humanos.application\obj\Debug\net8.0\api.humanos.application.AssemblyInfo.cs
+C:\Codes\Api.Humanos\api.humanos.application\obj\Debug\net8.0\api.humanos.application.csproj.CoreCompileInputs.cache
+C:\Codes\Api.Humanos\api.humanos.application\obj\Debug\net8.0\api.humanos.application.dll
+C:\Codes\Api.Humanos\api.humanos.application\obj\Debug\net8.0\refint\api.humanos.application.dll
+C:\Codes\Api.Humanos\api.humanos.application\obj\Debug\net8.0\api.humanos.application.pdb
+C:\Codes\Api.Humanos\api.humanos.application\obj\Debug\net8.0\ref\api.humanos.application.dll
+C:\Codes\Api.Humanos\api.humanos.application\bin\Debug\net8.0\api.humanos.domain.dll
+C:\Codes\Api.Humanos\api.humanos.application\bin\Debug\net8.0\api.humanos.domain.pdb
+C:\Codes\Api.Humanos\api.humanos.application\obj\Debug\net8.0\api.humanos.application.csproj.AssemblyReference.cache
+C:\Codes\Api.Humanos\api.humanos.application\obj\Debug\net8.0\api.huma.4DC7D5A3.Up2Date
+C:\Codes\Api.Humanos\api.humanos.application\obj\Debug\net8.0\api.humanos.application.sourcelink.json
